@@ -1,4 +1,3 @@
-const { error } = require('console');
 const Discord = require('discord.js');
 const axios = require('axios');
 exports.run = (client, message, args) => {
