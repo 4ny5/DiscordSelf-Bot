@@ -10,6 +10,7 @@ to get your discord token you need to open inspect element and go to console and
 Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache)
 .find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken()
 ```
+
 after you have your token go to the file named prviate.json and past your token where it says "TokenHere" then you should be all good
 =
 
