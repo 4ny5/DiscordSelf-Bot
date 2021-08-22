@@ -14,4 +14,5 @@ Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache
 after you have your token go to the file named prviate.json and past your token where it says "TokenHere" then you should be all good
 =
 
+ps all commands are made by George and thats me
 Have fun :)
