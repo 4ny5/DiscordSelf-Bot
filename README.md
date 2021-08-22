@@ -1,7 +1,8 @@
 # R00TBot
 R00T was created just out of straight boredom i was going to 
 make it into a discord bot but i just thought na i wanna make it into a selfbot 
-instead so theres heap of commands to use.
+instead so theres heap of commands to use if you wanna add your own you can i might update this
+from time to time.
 
 to get your discord token you need to open inspect element and go to console and past the code which is below 
 =
