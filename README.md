@@ -1,9 +1,9 @@
 # R00TBot
 R00T was created just out of straight boredom i was going to 
 make it into a discord bot but i just thought na i wanna make it into a selfbot 
-instead so theres heap of commands to use if you wanna add your own commands to it you're more and welcome to.
+instead so theres heap of commands to use.
 
-to get your token you would needa open inspect and go to console and copy this code
+to get your discord token you need to open inspect element and go to console and past the code which is below 
 =
 ```
 Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache)
