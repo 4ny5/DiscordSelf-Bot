@@ -1,0 +1,32 @@
+{
+  "name": "selfbot",
+  "version": "0.0.1",
+  "description": "NO desc?",
+  "main": "app.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "George",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^2.4.2",
+    "common-tags": "^1.4.0",
+    "device": "^0.3.12",
+    "discord-badges": "^1.2.3",
+    "discord-banners": "^1.0.1",
+    "discord.js": "^11.6.4",
+    "google": "^2.1.0",
+    "got": "^11.8.2",
+    "libquery": "^1.0.2",
+    "moment": "^2.18.1",
+    "ms": "^2.0.0",
+    "noblox.js": "^4.8.6",
+    "node-fetch": "^2.6.1",
+    "overwatch-stats": "^3.0.2",
+    "ping": "^0.4.1",
+    "pretty-ms": "^7.0.1",
+    "snekfetch": "^3.6.4",
+    "winston": "^2.4.5"
+  }
+}
