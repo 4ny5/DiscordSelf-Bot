@@ -11,7 +11,7 @@ module.exports.run = async (client, message) => {
     }
     let embed = new Discord.RichEmbed()
     .setAuthor(`${message.author.username}`, message.author.displayAvatarURL)
-    .setDescription(`Sniped! **${msg}**`)
+    .addField(`Sniped a Message!`,`\`\`\`\n${msg}\`\`\``)
     .setColor('#36393F')
     message.channel.send({ embed: embed });
     return;
